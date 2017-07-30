@@ -20,6 +20,6 @@
   },
   "scripts": {
     "deploy": "hexo deploy",
-    "publish": "hexo publish"
+    "post": "hexo new post"
   }
 }
