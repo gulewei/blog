@@ -19,6 +19,7 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
+    "server": "hexo server",
     "deploy": "hexo deploy",
     "post": "hexo new post"
   }
