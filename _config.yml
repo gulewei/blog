@@ -5,15 +5,15 @@
 # Site
 title: 顾乐威-blog
 subtitle:
-description: 何从寻觅，浪迹天涯
+description: 何从寻觅，浪迹天涯; 顾乐威;
 author: lewei goo
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://yoursite.com/blog/
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
