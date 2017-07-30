@@ -79,4 +79,5 @@ theme: Hacker
 deploy:
 - type: git
   repo: git@github.com:venecy/blog.git
-  message: new publish
+- type: heroku
+  repo: https://git.heroku.com/lewei.git
